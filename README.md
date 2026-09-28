@@ -12,9 +12,9 @@ Every conversation with an AI starts without memory. Symbiosis shows how to buil
 
 Four steps, none skipped: **lineage · memory · judgment · automation**.
 
-**Read:** [PDF](en/Symbiosis_2.0_Marco_Giribaldi.pdf) · [web](en/Symbiosis_2.0_Marco_Giribaldi.html) · [Español](es/Simbiosis_2.0_Marco_Giribaldi.html)
+**Read:** [PDF](en/Symbiosis_2.0_Marco_Giribaldi.pdf) · [web](en/Symbiosis_2.0_Marco_Giribaldi.html) · [.md for your AI](en/Symbiosis_2.0_Marco_Giribaldi.md) · [Español](es/Simbiosis_2.0_Marco_Giribaldi.html)
 **Try it today:** create a *core* folder and a *status* note: what you did today and what's left for tomorrow.
-**With your AI:** share the book and say "Start Symbiosis".
+**With your AI:** share the book (the .md file) and say "Start Symbiosis".
 
 **Evidence.** At HAI 2026 (ACM), a wrong memory proved worse than none: the error reached the output in 3 of 3 tasks, against 0 of 3 with no memory. doi:10.1145/3841580.3845736 (in press; active on publication, Nov 2026)
 
@@ -32,9 +32,9 @@ Cada conversación con una IA nace sin memoria. Simbiosis enseña a construirla 
 
 Cuatro peldaños, ninguno se salta: **linaje · memoria · criterio · automatización**.
 
-**Leer:** [PDF](es/Simbiosis_2.0_Marco_Giribaldi.pdf) · [web](es/Simbiosis_2.0_Marco_Giribaldi.html) · [English](en/Symbiosis_2.0_Marco_Giribaldi.html)
+**Leer:** [PDF](es/Simbiosis_2.0_Marco_Giribaldi.pdf) · [web](es/Simbiosis_2.0_Marco_Giribaldi.html) · [.md para tu IA](es/Simbiosis_2.0_Marco_Giribaldi.md) · [English](en/Symbiosis_2.0_Marco_Giribaldi.html)
 **Probar hoy:** crea una carpeta *núcleo* y una nota *estado*: qué hiciste hoy y qué queda para mañana.
-**Con tu IA:** compártele el libro y dile «Arranca Simbiosis».
+**Con tu IA:** compártele el libro (el archivo .md) y dile «Arranca Simbiosis».
 
 **Evidencia.** En HAI 2026 (ACM), una memoria equivocada resultó peor que ninguna: el error llegó a la salida en 3 de 3 tareas, contra 0 de 3 sin memoria. doi:10.1145/3841580.3845736 (en prensa; se activa al publicarse, nov. 2026)
 
