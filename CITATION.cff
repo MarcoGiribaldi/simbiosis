@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si usas este manual, cítalo así / If you use this manual, please cite it as below."
+type: book
+title: "Simbiosis — Manual para un buen linaje (Symbiosis — A Manual for a Good Lineage)"
+version: "2.0"
+date-released: 2026-09-30
+license: CC-BY-SA-4.0
+authors:
+  - family-names: Giribaldi
+    given-names: Marco
+    orcid: "https://orcid.org/0009-0009-7405-8460"
+    affiliation: "Investigador independiente, Tacna, Perú"
+keywords:
+  - human-AI collaboration
+  - external memory
+  - AI agents
+  - lineage
+  - human-agent interaction
+references:
+  - type: conference-paper
+    title: "Corrupted memory, healthy components: contagion of falsehoods in a human–AI system"
+    authors:
+      - family-names: Giribaldi
+        given-names: Marco
+    conference:
+      name: "International Conference on Human-Agent Interaction (HAI '26)"
+    doi: "10.1145/3841580.3845736"
+    year: 2026

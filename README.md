@@ -1,0 +1,45 @@
+# Symbiosis · Simbiosis
+
+**A Manual for a Good Lineage · Manual para un buen linaje** · v2.0 · Marco Giribaldi · [ORCID](https://orcid.org/0009-0009-7405-8460) · CC BY-SA 4.0
+
+[English](#english) · [Español](#español)
+
+---
+
+## English
+
+Every conversation with an AI starts without memory. Symbiosis shows how to build it outside the machine: a folder —the **core**— with a few notes the machine reads before working and updates when done. From session to session, that is the **lineage**.
+
+Four steps, none skipped: **lineage · memory · judgment · automation**.
+
+**Read:** [PDF](en/Symbiosis_2.0_Marco_Giribaldi.pdf) · [web](en/Symbiosis_2.0_Marco_Giribaldi.html) · [Español](es/Simbiosis_2.0_Marco_Giribaldi.html)
+**Try it today:** create a *core* folder and a *status* note: what you did today and what's left for tomorrow.
+**With your AI:** share the book and say "Start Symbiosis".
+
+**Evidence.** At HAI 2026 (ACM), a wrong memory proved worse than none: the error reached the output in 3 of 3 tasks, against 0 of 3 with no memory. [doi:10.1145/3841580.3845736](https://doi.org/10.1145/3841580.3845736)
+
+**What sets it apart.** It is related to Cline's Memory Bank, `AGENTS.md` and MemGPT; what it adds: written for non-technical people · one text for two readers, the person and their machine · a canary against silent loss · autonomy earned in blocks (green, yellow, red).
+
+**Cite:** Giribaldi, M. (2026). *Symbiosis — A Manual for a Good Lineage* (v2.0). DOI: pending. See [`CITATION.cff`](CITATION.cff).
+
+Written together with AI models; the decisions are the author's · marcoeliogiribaldi@gmail.com
+
+---
+
+## Español
+
+Cada conversación con una IA nace sin memoria. Simbiosis enseña a construirla afuera: una carpeta —el **núcleo**— con pocas notas que la máquina lee antes de trabajar y actualiza al terminar. De sesión en sesión, eso es el **linaje**.
+
+Cuatro peldaños, ninguno se salta: **linaje · memoria · criterio · automatización**.
+
+**Leer:** [PDF](es/Simbiosis_2.0_Marco_Giribaldi.pdf) · [web](es/Simbiosis_2.0_Marco_Giribaldi.html) · [English](en/Symbiosis_2.0_Marco_Giribaldi.html)
+**Probar hoy:** crea una carpeta *núcleo* y una nota *estado*: qué hiciste hoy y qué queda para mañana.
+**Con tu IA:** compártele el libro y dile «Arranca Simbiosis».
+
+**Evidencia.** En HAI 2026 (ACM), una memoria equivocada resultó peor que ninguna: el error llegó a la salida en 3 de 3 tareas, contra 0 de 3 sin memoria. [doi:10.1145/3841580.3845736](https://doi.org/10.1145/3841580.3845736)
+
+**Qué lo distingue.** Es pariente del Memory Bank de Cline, de `AGENTS.md` y de MemGPT; lo propio: escrito para personas no técnicas · un texto para dos lectores, la persona y su máquina · un canario contra la pérdida silenciosa · autonomía ganada por bloques (verde, amarillo, rojo).
+
+**Citar:** Giribaldi, M. (2026). *Simbiosis — Manual para un buen linaje* (v2.0). DOI: pendiente. Ver [`CITATION.cff`](CITATION.cff).
+
+Escrito junto con modelos de IA; las decisiones son del autor · marcoeliogiribaldi@gmail.com
