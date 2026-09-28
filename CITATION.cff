@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "Si usas este manual, cítalo así / If you use this manual, please cite it as below."
+message: "If you use this manual, please cite it as below. / Si usas este manual, cítalo así."
 type: book
-title: "Simbiosis — Manual para un buen linaje (Symbiosis — A Manual for a Good Lineage)"
+title: "Symbiosis — A Manual for a Good Lineage (Simbiosis — Manual para un buen linaje)"
 version: "2.0"
-date-released: 2026-09-30
+date-released: 2026-09-28
 license: CC-BY-SA-4.0
 authors:
   - family-names: Giribaldi
     given-names: Marco
     orcid: "https://orcid.org/0009-0009-7405-8460"
-    affiliation: "Investigador independiente, Tacna, Perú"
+    affiliation: "Independent researcher, Tacna, Peru"
 keywords:
   - human-AI collaboration
   - external memory

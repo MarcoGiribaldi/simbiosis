@@ -1,16 +1,31 @@
 {
-  "title": "Simbiosis — Manual para un buen linaje / Symbiosis — A Manual for a Good Lineage (v2.0)",
+  "title": "Symbiosis — A Manual for a Good Lineage / Simbiosis — Manual para un buen linaje (v2.0)",
   "upload_type": "publication",
   "publication_type": "book",
   "description": "<p>A manual for the human side of working with AI: how a person, without programming, builds outside the machine the memory it lacks (a small folder of notes the model reads before working and updates after), and climbs four steps — lineage, memory, judgment, automation — earning autonomy in blocks with green, yellow and red risk zones. One text for two readers: the person and their machine. Spanish original and English translation.</p><p>Un manual para el lado humano de trabajar con una IA. Original en español y traducción al inglés.</p>",
   "creators": [
-    {"name": "Giribaldi, Marco", "affiliation": "Independent researcher, Tacna, Peru", "orcid": "0009-0009-7405-8460"}
+    {
+      "name": "Giribaldi, Marco",
+      "affiliation": "Independent researcher, Tacna, Peru",
+      "orcid": "0009-0009-7405-8460"
+    }
   ],
   "license": "cc-by-sa-4.0",
   "language": "spa",
-  "keywords": ["human-AI collaboration", "external memory", "AI agents", "lineage", "human-agent interaction"],
-  "related_identifiers": [
-    {"identifier": "10.1145/3841580.3845736", "relation": "isSupplementedBy", "resource_type": "publication-conferencepaper"}
+  "keywords": [
+    "human-AI collaboration",
+    "external memory",
+    "AI agents",
+    "lineage",
+    "human-agent interaction"
   ],
-  "version": "2.0"
+  "related_identifiers": [
+    {
+      "identifier": "10.1145/3841580.3845736",
+      "relation": "isSupplementedBy",
+      "resource_type": "publication-conferencepaper"
+    }
+  ],
+  "version": "2.0",
+  "publication_date": "2026-09-28"
 }
