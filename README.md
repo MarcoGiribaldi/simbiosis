@@ -22,7 +22,7 @@ Four steps, none skipped: **lineage · memory · judgment · automation**.
 
 **Cite:** Giribaldi, M. (2026). *Symbiosis — A Manual for a Good Lineage* (v2.0). DOI: pending. See [`CITATION.cff`](CITATION.cff).
 
-Written together with AI models; the decisions are the author's · marcoeliogiribaldi@gmail.com
+Where it began: [v1.0, first notes](historia/Symbiosis_1.0_first_notes.html) (May 2026) · Written together with AI models; the decisions are the author's · marcoeliogiribaldi@gmail.com
 
 ---
 
@@ -42,4 +42,4 @@ Cuatro peldaños, ninguno se salta: **linaje · memoria · criterio · automatiz
 
 **Citar:** Giribaldi, M. (2026). *Simbiosis — Manual para un buen linaje* (v2.0). DOI: pendiente. Ver [`CITATION.cff`](CITATION.cff).
 
-Escrito junto con modelos de IA; las decisiones son del autor · marcoeliogiribaldi@gmail.com
+Dónde empezó: [v1.0, primeros apuntes](historia/Simbiosis_1.0_primeros_apuntes.html) (mayo 2026) · Escrito junto con modelos de IA; las decisiones son del autor · marcoeliogiribaldi@gmail.com
