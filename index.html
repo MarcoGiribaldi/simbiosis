@@ -202,7 +202,7 @@ footer a{color:var(--muted)}
 <footer>
   <div id="autor"><strong>Marco Giribaldi</strong> · <span lang="en">independent researcher, Tacna, Peru · <strong>Meet me at HAI '26, Osaka (Nov 16–19)</strong></span><span lang="es">investigador independiente, Tacna, Perú · <strong>Me encuentras en HAI '26, Osaka (16-19 de noviembre)</strong></span> · <a href="mailto:marcoeliogiribaldi@gmail.com">marcoeliogiribaldi@gmail.com</a> · <a href="https://orcid.org/0009-0009-7405-8460">ORCID</a> · <a href="https://github.com/MarcoGiribaldi">GitHub</a></div>
   <div class="historia" style="flex-basis:100%">© 2026 · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · <a href="CITATION.cff">CITATION.cff</a> · <a href="SUMMARY_EN.md">one-page summary</a> · <span lang="es">Escrito en colaboración con modelos de inteligencia artificial, que es justamente de lo que trata. Las decisiones, las experiencias y los errores son del autor.</span><span lang="en">Written in collaboration with AI models, which is exactly what it is about. The decisions, the experiences and the mistakes are the author's.</span></div>
-  <div class="historia origen-pie" style="flex-basis:100%"><span lang="en">Where it began: <a href="historia/Symbiosis_1.0_first_notes.html">v1.0, first notes</a> (May 2026) — the ancestor of this book, kept as its lineage.</span><span lang="es">Dónde empezó: <a href="historia/Simbiosis_1.0_primeros_apuntes.html">v1.0, primeros apuntes</a> (mayo 2026) — el ancestro de este libro, guardado como su linaje.</span></div>
+  <div class="historia origen-pie" style="flex-basis:100%"><span lang="en">Where it began: <a href="history/Symbiosis_1.0_first_notes.html">v1.0, first notes</a> (May 2026) — the ancestor of this book, kept as its lineage.</span><span lang="es">Dónde empezó: <a href="history/Simbiosis_1.0_primeros_apuntes.html">v1.0, primeros apuntes</a> (mayo 2026) — el ancestro de este libro, guardado como su linaje.</span></div>
 </footer>
 
 <script>
@@ -324,7 +324,7 @@ let MIRA = 0;   // altura a la que mira la cámara: deja las células en la fran
 function ajustar() {
   const w = innerWidth, h = innerHeight;
   renderer.setSize(w, h, false); camara.aspect = w / h;
-  const d = w < 700 ? 15 : 11.5;
+  const d = Math.min(15, 11.5 * Math.sqrt(Math.max(1, 1.3 / camara.aspect)));   // continua: en vertical (tablet, celular) se aleja sin saltos
   camara.position.set(0, 0.6, d); camara.updateProjectionMatrix();
   const medio = d * Math.tan(THREE.MathUtils.degToRad(camara.fov / 2));
   MIRA = Y0 - medio * (1 - 2 * 0.27);

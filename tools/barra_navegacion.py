@@ -11,8 +11,8 @@ RAIZ = os.path.dirname(AQUI)
 PAGINAS = {
     "es/Simbiosis_2.0_Marco_Giribaldi.html": ("es", "Simbiosis_2.0_Marco_Giribaldi.pdf", "../en/Symbiosis_2.0_Marco_Giribaldi.html", "English"),
     "en/Symbiosis_2.0_Marco_Giribaldi.html": ("en", "Symbiosis_2.0_Marco_Giribaldi.pdf", "../es/Simbiosis_2.0_Marco_Giribaldi.html", "Español"),
-    "historia/Simbiosis_1.0_primeros_apuntes.html": ("es", "Simbiosis_1.0_primeros_apuntes.pdf", "Symbiosis_1.0_first_notes.html", "English"),
-    "historia/Symbiosis_1.0_first_notes.html": ("en", "Symbiosis_1.0_first_notes.pdf", "Simbiosis_1.0_primeros_apuntes.html", "Español"),
+    "history/Simbiosis_1.0_primeros_apuntes.html": ("es", "Simbiosis_1.0_primeros_apuntes.pdf", "Symbiosis_1.0_first_notes.html", "English"),
+    "history/Symbiosis_1.0_first_notes.html": ("en", "Symbiosis_1.0_first_notes.pdf", "Simbiosis_1.0_primeros_apuntes.html", "Español"),
 }
 ESTILO = ('<style>.barra-simbiosis{position:sticky;top:0;z-index:9;display:flex;gap:18px;flex-wrap:wrap;align-items:center;'
           'padding:10px 16px;margin:-8px -8px 16px;background:#0c1113;font:500 14px/1.4 system-ui,sans-serif}'
