@@ -15,7 +15,7 @@ Four steps, none skipped: **Lineage** (the next session isn't born blank) → **
 Similar tools exist (Cline's Memory Bank, `AGENTS.md`/`CLAUDE.md`, long-running agent guides, MemGPT). Symbiosis differs in four ways: it is written **for non-technical people**; it is **one text for two readers** — the person, and a guide for their machine that activates only when the person asks; it rests on **a measured case**; and it treats memory as **curated, not accumulated**.
 
 ## Evidence so far
-- **HAI '26** (Giribaldi, 2026, doi:10.1145/3841580.3845736): in a controlled study, an agent with a *corrupted* memory carried falsehoods into executable output in 3 of 3 tasks, against 0 of 3 with *no* memory — **no memory was better than a wrong one**.
+- **HAI '26** (Giribaldi, 2026, doi:10.1145/3841580.3845736, in press): in a controlled study, an agent with a *corrupted* memory carried falsehoods into executable output in 3 of 3 tasks, against 0 of 3 with *no* memory — **no memory was better than a wrong one**.
 - **Hidden-instruction test:** four models read a version with a planted order; none obeyed (4/4).
 - **Cross-reading:** five models from four companies read both versions; several independently singled out the same novel elements (provider-independent lineage, the memory canary, the six verbs split by real capability, "when a rule is forgotten twice, at the next level it becomes code").
 
