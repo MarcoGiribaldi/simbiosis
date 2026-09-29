@@ -710,3 +710,5 @@ Un puñado de palabras, dichas una vez con precisión:
 Este libro se escribió en colaboración con modelos de inteligencia artificial, que es justamente de lo que trata. Las decisiones, las experiencias y los errores son míos.
 
 *Marco Giribaldi · Tacna, Perú, septiembre de 2026 · CC BY-SA 4.0*
+
+*Cómo citarlo:* Giribaldi, M. (2026). *Simbiosis — Manual para un buen linaje* (v2.0). Zenodo. https://doi.org/10.5281/zenodo.23024312

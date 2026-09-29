@@ -710,3 +710,5 @@ A handful of words, stated once, precisely:
 This book was written in collaboration with artificial intelligence models, which is exactly what it's about. The decisions, the experiences, and the mistakes are mine.
 
 *Marco Giribaldi · Tacna, Peru, September 2026 · CC BY-SA 4.0*
+
+*How to cite:* Giribaldi, M. (2026). *Symbiosis — A Manual for a Good Lineage* (v2.0). Zenodo. https://doi.org/10.5281/zenodo.23024312
