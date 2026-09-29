@@ -23,4 +23,4 @@ Similar tools exist (Cline's Memory Bank, `AGENTS.md`/`CLAUDE.md`, long-running 
 It works in practice: it grew from one case and a handful of people use it today. Their reports will be published, and independent validation is the next step (AI readers don't count as validation).
 
 ## Read it
-Spanish original and English translation, PDF and web: this repository's `es/` and `en/` folders. DOI: pending (Zenodo).
+Spanish original and English translation, PDF and web: this repository's `es/` and `en/` folders. DOI: [10.5281/zenodo.23024312](https://doi.org/10.5281/zenodo.23024312) (Zenodo).

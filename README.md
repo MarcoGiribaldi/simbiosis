@@ -20,7 +20,7 @@ Four steps, none skipped: **lineage · memory · judgment · automation**.
 
 **What sets it apart.** It is related to Cline's Memory Bank, `AGENTS.md` and MemGPT; what it adds: written for non-technical people · one text for two readers, the person and their machine · a canary against silent loss · autonomy earned in blocks (green, yellow, red).
 
-**Cite:** Giribaldi, M. (2026). *Symbiosis — A Manual for a Good Lineage* (v2.0). DOI: pending. See [`CITATION.cff`](CITATION.cff).
+**Cite:** Giribaldi, M. (2026). *Symbiosis — A Manual for a Good Lineage* (v2.0). DOI: [10.5281/zenodo.23024312](https://doi.org/10.5281/zenodo.23024312) (all versions: [10.5281/zenodo.23024311](https://doi.org/10.5281/zenodo.23024311)). See [`CITATION.cff`](CITATION.cff).
 
 Where it began: [v1.0, first notes](history/Symbiosis_1.0_first_notes.html) (May 2026) · Written together with AI models; the decisions are the author's · marcoeliogiribaldi@gmail.com
 
@@ -40,6 +40,6 @@ Cuatro peldaños, ninguno se salta: **linaje · memoria · criterio · automatiz
 
 **Qué lo distingue.** Es pariente del Memory Bank de Cline, de `AGENTS.md` y de MemGPT; lo propio: escrito para personas no técnicas · un texto para dos lectores, la persona y su máquina · un canario contra la pérdida silenciosa · autonomía ganada por bloques (verde, amarillo, rojo).
 
-**Citar:** Giribaldi, M. (2026). *Simbiosis — Manual para un buen linaje* (v2.0). DOI: pendiente. Ver [`CITATION.cff`](CITATION.cff).
+**Citar:** Giribaldi, M. (2026). *Simbiosis — Manual para un buen linaje* (v2.0). DOI: [10.5281/zenodo.23024312](https://doi.org/10.5281/zenodo.23024312) (todas las versiones: [10.5281/zenodo.23024311](https://doi.org/10.5281/zenodo.23024311)). Ver [`CITATION.cff`](CITATION.cff).
 
 Dónde empezó: [v1.0, primeros apuntes](history/Simbiosis_1.0_primeros_apuntes.html) (mayo 2026) · Escrito junto con modelos de IA; las decisiones son del autor · marcoeliogiribaldi@gmail.com

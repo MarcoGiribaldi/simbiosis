@@ -3,6 +3,14 @@ message: "If you use this manual, please cite it as below. / Si usas este manual
 type: book
 title: "Symbiosis — A Manual for a Good Lineage (Simbiosis — Manual para un buen linaje)"
 version: "2.0"
+doi: "10.5281/zenodo.23024312"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23024312"
+    description: "Version 2.0"
+  - type: doi
+    value: "10.5281/zenodo.23024311"
+    description: "All versions (concept DOI)"
 date-released: 2026-09-28
 license: CC-BY-SA-4.0
 authors:
